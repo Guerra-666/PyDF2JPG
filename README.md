@@ -72,4 +72,4 @@ Luego, ejecuta el script como se indicó anteriormente.
 
 ---
 
-¡Esperamos que esta herramienta te sea útil para convertir tus archivos PDF en imágenes JPG de manera sencilla!
+¡Espero que esta herramienta te sea útil para convertir tus archivos PDF en imágenes JPG de manera sencilla!
